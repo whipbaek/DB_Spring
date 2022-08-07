@@ -9,14 +9,14 @@
 - mybatis
 - IntelliJ
 
-![image](https://user-images.githubusercontent.com/75191916/183252947-314d766d-9098-4e3e-97bf-e6e0f9c42eb9.png)
+![image](https://user-images.githubusercontent.com/75191916/183292125-25fd22cd-0b53-4f30-8738-d76f696b947a.png)
 
 - 데이터베이스에 데이터 저장
 
-![image](https://user-images.githubusercontent.com/75191916/183252996-7dea7299-f719-4cd0-8f49-37bb10f7ca68.png)
+![image](https://user-images.githubusercontent.com/75191916/183292144-2255f88a-6aba-4ca7-b468-f55fa6caa31c.png)
 
 
-![image](https://user-images.githubusercontent.com/75191916/183252982-d71f3dc3-75b5-431b-8ab8-ef3c0582c14b.png)
+![image](https://user-images.githubusercontent.com/75191916/183292158-4a472ae2-b4ef-487a-a91e-2bbf8d20ce4d.png)
 
-- DB연동 및 mybatis 설정 및 맵핑후에 List로 DAO를 받아옴.
+- DB연동 및 mybatis 설정 및 매핑후에 데이터를 가져온다.
 
