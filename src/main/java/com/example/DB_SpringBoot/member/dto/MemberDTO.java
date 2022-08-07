@@ -1,9 +1,9 @@
-package com.example.DB_SpringBoot.board.domain;
+package com.example.DB_SpringBoot.member.dto;
 
 import lombok.Data;
 
 @Data
-public class BoardVO {
+public class MemberDTO {
     private int Id;
     private String Name;
     private String Password;
