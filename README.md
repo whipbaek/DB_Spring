@@ -1,5 +1,6 @@
 ## DB_Spring
-스프링부트와 DB를 연동하고 접근법을 공부함
+스프링부트와 DB를 연동하고 접근법을 공부함, 자세한 내용 기술은 Notion링크 참조 <br>
+[Notion Link](https://truth-scallop-0eb.notion.site/Spring-Boot-MyBatis-cdb1221cc6264be8934cf06522a0b3e5)
 
 ### 환경
 
